@@ -1,0 +1,55 @@
+﻿<Window x:Class="RaidVoice_V2_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RaidVoice_V2_WPF"
+        mc:Ignorable="d"
+        Title="RaidVoice" Height="300"
+        SizeToContent="Width"
+        KeyDown="Window_KeyDown"
+        MinWidth="1050"
+        KeyUp="Window_KeyUp"
+        Icon="/icon.ico">
+    <Grid Background="#000000">
+        <TextBlock x:Name="LoadingText" 
+               Foreground="White" 
+               Background="Black"
+                   
+                Width="1050"
+                Height="300"
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center" 
+               Visibility="Collapsed" Panel.ZIndex="30"/>
+        <DockPanel Margin="15,5,5,0">
+            <Label Foreground="White" FontFamily="Bahnschrift Light">
+                Keybind: CapsLock
+            </Label>
+            <Label x:Name="ListeningText" Foreground="White" FontFamily="Bahnschrift Light" Margin="25,0,0,0">
+                Not listening...
+            </Label>
+        </DockPanel>
+        <DockPanel HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,30,20,20">
+            <Border BorderBrush="#957e5a" BorderThickness="1">
+                <Image x:Name="ItemImage" MaxHeight="500" Source="https://cdn.tarkov-market.app/images/items/physical_bitcoin_(btc)_lg.png"></Image>
+            </Border>
+            <StackPanel Margin="20,0,0,0">
+                <Label x:Name="ItemName" Foreground="#957e5a" FontFamily="Bahnschrift Bold" FontSize="40">
+                    Physical bitcoin
+                </Label>
+                <Label x:Name="ItemTraderPrice" Foreground="#957e5a" FontFamily="Bahnschrift Light" FontSize="20">
+                    Trader Price: 558,693
+                </Label>
+                <Label x:Name="TraderName" Foreground="#957e5a" FontFamily="Bahnschrift Light" FontSize="20">
+                    Trader Name: Therapist
+                </Label>
+                <Label x:Name="ItemFleaPrice" Foreground="#957e5a" FontFamily="Bahnschrift Light" FontSize="20">
+                    Flea Price: 560,239
+                </Label>
+                <Label x:Name="PricePerSlot" Foreground="#957e5a" FontFamily="Bahnschrift Light" FontSize="20">
+                    Price Per Slot: 560,239
+                </Label>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

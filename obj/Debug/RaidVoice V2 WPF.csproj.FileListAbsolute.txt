@@ -1,0 +1,49 @@
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.csproj.AssemblyReference.cache
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\App.g.cs
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF_Content.g.cs
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF_MarkupCompile.cache
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF_MarkupCompile.lref
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\x86\sqlite3.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\x64\sqlite3.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\RaidVoice V2 WPF.exe.config
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\RaidVoice V2 WPF.exe
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\RaidVoice V2 WPF.pdb
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\EntityFramework.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLite-net.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLite.Net.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Buffers.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Memory.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\EntityFramework.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\SQLite-net.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Buffers.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Memory.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\MainWindow.baml
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.g.resources
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice_V2_WPF.Properties.Resources.resources
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.csproj.CopyComplete
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.exe
+C:\Users\aidan\source\repos\RaidVoice V2 WPF\RaidVoice V2 WPF\obj\Debug\RaidVoice V2 WPF.pdb
